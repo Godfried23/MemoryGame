@@ -129,5 +129,5 @@ public class MemoryApp extends JFrame {
 				new ImageIcon(this.getClass().getResource("images/mm04.gif")),
 				new ImageIcon(this.getClass().getResource("images/mm05.gif")),
 				new ImageIcon(this.getClass().getResource("images/mm06.gif")));
-	}
+	}//added a comment to show changes in github
 }
